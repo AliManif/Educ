@@ -1,2 +1,3 @@
 # Educ
 the course in class
+hi humais this is ....
